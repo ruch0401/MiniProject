@@ -1,5 +1,4 @@
-# MiniProject
-RCOEM Mini Project (III Year, V Semester)
+#iot-based-implementation-using-esp8266
 
 ESP8266 can be configured either in sending mode i.e the AP mode or the receiver mode i.e. the ST mode, one at a time.
 In our project we have configured the ESP8266 in the sender mode initially. During this period, the application board that we have used
